@@ -1,3 +1,9 @@
 Hello World
 
+<<<<<<< HEAD
 print (Hello World)Hello, is it me you're looking for
+=======
+print (Hello World)
+
+Nanananananananana….Batman!!!!!!
+>>>>>>> d2dff33306c97e6ef401aac1fb8694b090a4c69d
